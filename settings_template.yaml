@@ -1,0 +1,2 @@
+# The URL at which the Radio REST API is accessible. Don't include /v2.
+radio-rest-api: https://api.example.com
